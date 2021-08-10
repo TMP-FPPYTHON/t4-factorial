@@ -8,8 +8,8 @@
 input_values = [
     # Test case 1
     (
-        [""],
-        ["Hello World!"],
+        ["0","7","-1"],
+        ["Dame un numero=","0!=1","Dame un numero=","7!=5040","Dame un numero=","-1!=Error!"],
         "Debe salir\nHello World!"
     )
 ]

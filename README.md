@@ -1,3 +1,3 @@
-# Ejercicios Básicos!
+# Ejercicio Ciclos!
 
-- 00 Hello World
+- 00 Factorial

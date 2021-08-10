@@ -8,8 +8,8 @@
 pip3 install pytest
 ```
 
-- ## 00 Hello World
+- ## 00 Factorial
     ### Run command
     ```
-    pytest assignments/00HelloWorld
+    pytest assignments/00Factorial
     ```
