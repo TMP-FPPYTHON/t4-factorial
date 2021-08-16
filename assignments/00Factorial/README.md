@@ -16,6 +16,10 @@ La línea `#escribe tu código abajo de esta línea` es un comentario, el progra
 
 Agrega una nueva línea abajo del comentario con el código para imprimir `Hello World!` y ejecuta el programa.
 
+Escriba un programa en Python para calcular el **factorial** de un número no negativo utilizando el ciclo ```for``` para solicitar 3 valores y utilizando el ciclo ```while``` para calcular el factorial para cada valor solicitado. 
+
+**Nota:** no olvide el caso especial ```0!```
+
 La salida del programa debe de ser exactamente de la siguiente forma:
 
 ```
